@@ -1,0 +1,13 @@
+body {
+    background-image: url(../images/tweed.png);
+    background-repeat: repeat;
+}
+
+.hidden{
+    display:none;
+}
+
+.printpage{
+    float:left;
+    margin-right:8px;
+}
